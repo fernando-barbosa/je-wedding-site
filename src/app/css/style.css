@@ -5,12 +5,9 @@
   font-weight: normal;
   font-style: normal;
 }
-/* =======================================================
-*
-* 	Template Style 
-*	Edit this section
-*
-* ======================================================= */
+#map {
+    height: 500px;
+}
 body {
   font-family: "Source Sans Pro", Arial, sans-serif;
   font-weight: 400;
